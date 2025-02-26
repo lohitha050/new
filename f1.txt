@@ -1,0 +1,2 @@
+this is a new file in remote repo
+pull changes from remote repo to cloned repo
